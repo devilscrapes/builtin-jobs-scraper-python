@@ -1,0 +1,7 @@
+{
+  "search": "engineer",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
